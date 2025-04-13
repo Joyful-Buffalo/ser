@@ -1,0 +1,6 @@
+librosa==0.8.0
+numpy==1.23.5
+numba==0.56.4
+matplotlib
+tqdm
+fitlog

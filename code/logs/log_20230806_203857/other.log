@@ -1,0 +1,7 @@
+{"other": {"mfcc": "40"}}
+{"other": {"frame": "433"}}
+{"other": {"batch_size": "64"}}
+{"other": {"lr": "0.001"}}
+{"other": {"l2": "1e-05"}}
+{"other": {"dataset": "EMODB"}}
+{"other": {"cost_time": "0h11m50s"}}

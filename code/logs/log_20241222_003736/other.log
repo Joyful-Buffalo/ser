@@ -1,0 +1,16 @@
+{"other": {"mfcc": "40"}}
+{"other": {"frame": "185"}}
+{"other": {"batch_size": "64"}}
+{"other": {"lr": "5e-05"}}
+{"other": {"l2": "1e-05"}}
+{"other": {"dataset": "EMODB"}}
+{"other": {"speaker": "03"}}
+{"other": {"cost_time": "0h0m16s"}}
+{"other": {"mfcc": "40"}}
+{"other": {"frame": "185"}}
+{"other": {"batch_size": "64"}}
+{"other": {"lr": "5e-05"}}
+{"other": {"l2": "1e-05"}}
+{"other": {"dataset": "EMODB"}}
+{"other": {"speaker": "13"}}
+{"other": {"cost_time": "0h1m18s"}}

@@ -1,0 +1,7 @@
+{"other": {"mfcc": "40"}}
+{"other": {"frame": "185"}}
+{"other": {"batch_size": "64"}}
+{"other": {"lr": "0.001"}}
+{"other": {"l2": "1e-05"}}
+{"other": {"dataset": "EXP"}}
+{"other": {"cost_time": "0h0m17s"}}

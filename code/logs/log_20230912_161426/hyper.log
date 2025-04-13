@@ -1,0 +1,1 @@
+{"hyper": {"fit_frame": 185, "use_gpu": true, "hidden_size": 64, "epochs": 100, "att_size": 128, "lr": 0.001, "gamma": 0.86, "step_size": 20, "dropout": 0.5, "lo_l2": 1e-05, "optim_w": 0.0, "data_augmentation": false, "noise_rate": 0.005, "mfcc_column": 40, "each_data": "EMODB", "batch_size": 64}}
